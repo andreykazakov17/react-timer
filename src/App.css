@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.time {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 36px;
+  width: 350px;
+}
+
+.btn-block {
+  display: flex;
+  justify-content: space-evenly;
+  width: 350px;
+}
+
+.btn {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  border-width: 0px;
+  cursor: pointer;
+}
